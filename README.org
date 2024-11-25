@@ -1,0 +1,24 @@
+** Introduction
+
+conway game of life is an interesting game with just simple rules. And zig is also quite interesting.
+I made it as a learning experiance.
+
+[[./gophergun.gif]]
+
+[[./ron.gif]]
+
+** Build and run
+
+- clone the repo and cd into the directory
+  #+begin_src sh
+    git clone https://github.com/Nathan-Melaku/conway-game-of-life-zig && cd conway-game-of-life-zig
+  #+end_src
+
+- build an executable
+  #+begin_src sh
+    zig build
+  #+end_src
+  and then run it
+  #+begin_src sh
+    ./zig-out/bin/game-of-life-zig
+  #+end_src
