@@ -22,3 +22,6 @@ I made it as a learning experiance.
   #+begin_src sh
     ./zig-out/bin/game-of-life-zig
   #+end_src
+
+
+change the global INIT variable to different values 1,2,3,4 to give different seed value.
