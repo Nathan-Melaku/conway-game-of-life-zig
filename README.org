@@ -3,9 +3,11 @@
 conway game of life is an interesting game with just simple rules. And zig is also quite interesting.
 I made it as a learning experiance.
 
-[[./gophergun.gif]]{:width 500px }
+#+ATTR_HTML: :width 500px
+[[./gophergun.gif]]
 
-[[./ron.gif]]{:width 500px}
+#+ATTR_HTML: :width 500px
+[[./ron.gif]]
 
 ** Build and run
 
