@@ -11,7 +11,7 @@ const PIXEL_WIDTH: i32 = @divFloor(WIDTH, PIXEL_GRID_COL);
 const PIXEL_HIGHT: i32 = @divFloor(HEIGHT, PIXEL_GRID_ROW);
 const FPS: u16 = 60;
 
-const INIT = 1;
+const INIT = 0;
 
 const Cell = struct {
     rect: c.SDL_Rect,
